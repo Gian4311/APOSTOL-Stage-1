@@ -1,2 +1,2 @@
 # APOSTOL-Stage-1
-SysDev Assessment by Gian Tristian G. Apostol
+SysDev Assessment - Stage 1 by Gian Tristian G. Apostol
